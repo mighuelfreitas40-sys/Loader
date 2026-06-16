@@ -16,7 +16,8 @@ local S = {
 	[1686885941] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Brookhaven/refs/heads/main/Brookhaven",
 	[3808081382] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Strongestbattlegrounds/refs/heads/main/StrongestBattleground",
 	[5216419122] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Gef/refs/heads/main/Gef",
-	[9649298941] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/LavaBrainrot/refs/heads/main/LavaBrainrot"
+	[9649298941] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/LavaBrainrot/refs/heads/main/LavaBrainrot",
+	[4293374620] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Super-sourcer/refs/heads/main/fisasource"
 }
 local U = S[G]
 if U then

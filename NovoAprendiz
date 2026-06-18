@@ -19,7 +19,8 @@ local S = {
     [9649298941] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/LavaBrainrot/refs/heads/main/LavaBrainrot",
     [4293374620] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Super-sourcer/refs/heads/main/fisasource",
     [66654135] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/mm2/refs/heads/main/mm2",
-    [372226183] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/flee-the-facility/refs/heads/main/novoaprendiz"
+    [372226183] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/flee-the-facility/refs/heads/main/novoaprendiz",
+    [10200395747] = "https://raw.githubusercontent.com/mighuelfreitas40-sys/Growagarden2/refs/heads/main/Opensource"
 }
 
 local U = S[G]
